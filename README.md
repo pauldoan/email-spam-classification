@@ -18,6 +18,7 @@ In this project I will build a spam detector based in simple Naive Bayes classif
 The full dataset can be found here: 
 - https://trec.nist.gov/data/spam.html
 
+The notebook produced in this project works with the native structure of the TREC datasets.
 
 # References and useful links
 
